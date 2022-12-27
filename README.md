@@ -6,4 +6,5 @@ SDLC :basic terminology and agile model<br />
 API : what is api video<br />
 Version control : Git,Github,Gitlab<br />
 Testing : video on what is testing<br />
-JIRA
+JIRA<br />
+Database upto joins, pending topics:triggers,stored procedures,views.

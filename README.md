@@ -7,4 +7,5 @@ API : what is api video<br />
 Version control : Git,Github,Gitlab<br />
 Testing : video on what is testing<br />
 JIRA<br />
-Database upto joins, pending topics:triggers,stored procedures,views.
+Database upto joins, pending topics:triggers,stored procedures,views.<br />
+Cloud computing<br />

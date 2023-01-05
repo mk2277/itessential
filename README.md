@@ -8,4 +8,5 @@ Version control : Git,Github,Gitlab<br />
 Testing : video on what is testing<br />
 JIRA<br />
 Database upto joins, pending topics:triggers,stored procedures,views.<br />
-Cloud computing<br />
+Cloud computing basic overview<br />
+CI/CD basic overview<br/>
